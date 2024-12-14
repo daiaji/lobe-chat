@@ -9,11 +9,15 @@
       "title": "Bienvenue à {{name}}"
     }
   },
-  "appInitializing": "L'application est en cours de démarrage, veuillez patienter...",
+  "appInitializing": "L'application est en cours de démarrage...",
   "autoGenerate": "Générer automatiquement",
   "autoGenerateTooltip": "Générer automatiquement la description de l'agent basée sur les suggestions",
   "autoGenerateTooltipDisabled": "Veuillez saisir un mot-clé avant d'activer la fonction de complétion automatique",
+  "back": "Retour",
+  "batchDelete": "Suppression en masse",
   "blog": "Blog des produits",
+  "branching": "Créer un sous-sujet",
+  "branchingDisable": "La fonction « sous-sujet » n'est disponible que dans la version serveur. Si vous avez besoin de cette fonctionnalité, veuillez passer en mode de déploiement serveur ou utiliser LobeChat Cloud.",
   "cancel": "Annuler",
   "changelog": "Journal des modifications",
   "close": "Fermer",
@@ -31,6 +35,7 @@
   "defaultSession": "Session par défaut",
   "delete": "Supprimer",
   "document": "Document d'utilisation",
+  "download": "Télécharger",
   "duplicate": "Dupliquer",
   "edit": "Modifier",
   "export": "Exporter",
@@ -109,6 +114,7 @@
     "en": "Anglais",
     "en-US": "Anglais",
     "es-ES": "Espagnol",
+    "fa-IR": "persan",
     "fi-FI": "Finnois",
     "fr-FR": "français",
     "hi-IN": "Hindi",
@@ -192,7 +198,8 @@
   },
   "tab": {
     "chat": "Conversation",
-    "market": "Découvrir",
+    "discover": "Découvrir",
+    "files": "Fichiers",
     "me": "moi",
     "setting": "Paramètre"
   },

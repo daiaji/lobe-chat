@@ -9,11 +9,15 @@
       "title": "{{name}}'i Denemek İçin Hoş Geldiniz"
     }
   },
-  "appInitializing": "Uygulama başlatılıyor, lütfen bekleyin...",
+  "appInitializing": "Uygulama başlatılıyor...",
   "autoGenerate": "Otomatik Oluştur",
   "autoGenerateTooltip": "Auto-generate agent description based on prompts",
   "autoGenerateTooltipDisabled": "Otomatik tamamlama işlevini kullanmadan önce ipucu kelimesini girin",
+  "back": "Geri",
+  "batchDelete": "Toplu Sil",
   "blog": "Ürün Blogu",
+  "branching": "Alt konu oluştur",
+  "branchingDisable": "«Alt konu» özelliği yalnızca sunucu sürümünde mevcuttur. Bu özelliği kullanmak için lütfen sunucu dağıtım moduna geçin veya LobeChat Cloud'u kullanın.",
   "cancel": "İptal",
   "changelog": "Changelog",
   "close": "Kapat",
@@ -31,6 +35,7 @@
   "defaultSession": "Varsayılan Asistan",
   "delete": "Sil",
   "document": "Belge",
+  "download": "İndir",
   "duplicate": "Kopya oluştur",
   "edit": "Düzenle",
   "export": "Dışa Aktar",
@@ -109,6 +114,7 @@
     "en": "İngilizce",
     "en-US": "İngilizce",
     "es-ES": "İspanyolca",
+    "fa-IR": "Farsça",
     "fi-FI": "Fince",
     "fr-FR": "Fransızca",
     "hi-IN": "Hintçe",
@@ -192,7 +198,8 @@
   },
   "tab": {
     "chat": "Chat",
-    "market": "Keşfet",
+    "discover": "Keşfet",
+    "files": "Dosyalar",
     "me": "ben",
     "setting": "Ayarlar"
   },

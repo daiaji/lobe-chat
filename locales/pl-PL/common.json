@@ -9,11 +9,15 @@
       "title": "Witaj w {{name}}"
     }
   },
-  "appInitializing": "Inicjowanie aplikacji, prosimy o cierpliwość...",
+  "appInitializing": "Aplikacja uruchamia się...",
   "autoGenerate": "Automatyczne generowanie",
   "autoGenerateTooltip": "Automatyczne uzupełnianie opisu asystenta na podstawie sugestii",
   "autoGenerateTooltipDisabled": "Proszę wprowadzić słowo kluczowe przed użyciem funkcji automatycznego uzupełniania",
+  "back": "Powrót",
+  "batchDelete": "Usuń wiele",
   "blog": "Blog produktowy",
+  "branching": "Utwórz podtemat",
+  "branchingDisable": "Funkcja „podtemat” jest dostępna tylko w wersji serwerowej. Aby skorzystać z tej funkcji, przełącz się na tryb wdrożenia serwera lub użyj LobeChat Cloud.",
   "cancel": "Anuluj",
   "changelog": "Dziennik zmian",
   "close": "Zamknij",
@@ -31,6 +35,7 @@
   "defaultSession": "Domyślna sesja",
   "delete": "Usuń",
   "document": "Dokumentacja",
+  "download": "Pobierz",
   "duplicate": "Utwórz kopię",
   "edit": "Edytuj",
   "export": "Eksportuj ustawienia",
@@ -109,6 +114,7 @@
     "en": "Angielski",
     "en-US": "Angielski (USA)",
     "es-ES": "Hiszpański",
+    "fa-IR": "perski",
     "fi-FI": "Fiński",
     "fr-FR": "Francuski",
     "hi-IN": "Hindi",
@@ -192,7 +198,8 @@
   },
   "tab": {
     "chat": "Czat",
-    "market": "Odkrywaj",
+    "discover": "Odkryj",
+    "files": "Pliki",
     "me": "ja",
     "setting": "Ustawienia"
   },
